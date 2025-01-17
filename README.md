@@ -37,6 +37,8 @@ The analysis is divided into the following sections, each designed to provide va
 3. **Product Data**: This sheet provides details about each coffee product, including **Product ID**, **Coffee Type**, **Roast Type**, **Size**, **Unit Price**, **Profit**.
 
 **Various data cleaning steps include checking for blanks, null values, outliers, duplicates in critical columns. Along with other techniques with other techniques like Vlookup, Index Match to make sure we get a consolidated view of the data for furthur Analysis.** 
+**The Dashboard is present in the last slide with its Screenshot present here:**          
+![Dashboard Screenshot](https://github.com/Ubaid1ullah1khan/CoffeeData/blob/main/CoffeeDashboard.png?raw=true)
 
 ## **Key Insights**
 
